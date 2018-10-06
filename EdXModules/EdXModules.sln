@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConversion", "Module1\DataConversion.csproj", "{3C0558BC-1ED8-4CC5-8393-524CCA6AB5EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod1_Lab1", "Mod1_Lab1\Mod1_Lab1.csproj", "{BACF3BB1-7076-4D2E-B95A-002DA18C9A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C0558BC-1ED8-4CC5-8393-524CCA6AB5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0558BC-1ED8-4CC5-8393-524CCA6AB5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0558BC-1ED8-4CC5-8393-524CCA6AB5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0558BC-1ED8-4CC5-8393-524CCA6AB5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACF3BB1-7076-4D2E-B95A-002DA18C9A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACF3BB1-7076-4D2E-B95A-002DA18C9A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACF3BB1-7076-4D2E-B95A-002DA18C9A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACF3BB1-7076-4D2E-B95A-002DA18C9A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B2C9B4-D02B-45EA-817E-FC4BC8FE5AD4}
+	EndGlobalSection
+EndGlobal
